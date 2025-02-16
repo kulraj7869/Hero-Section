@@ -14,6 +14,7 @@ A modern and interactive hero section clone inspired by the Pha5e website, built
 3.Video Output
 
 4.Image Output
+https://github.com/kulraj7869/Tech-Project-Website/blob/main/image.jpg
 
 5.Contributing
 Feel free to fork this repository and submit pull requests. 
