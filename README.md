@@ -11,5 +11,9 @@ A modern and interactive hero section clone inspired by the Pha5e website, built
 - Sign-in modal popup using Bootstrap
 - Contact prompt for user interaction
 
-3.Contributing
+3.Video Output
+
+4.Image Output
+
+5.Contributing
 Feel free to fork this repository and submit pull requests. 
