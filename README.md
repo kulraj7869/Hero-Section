@@ -1,4 +1,4 @@
-1.Tech Project Website
+1.Hero Section
 
 # Pha5e Hero Section Clone
 A modern and interactive hero section clone inspired by the Pha5e website, built using HTML, CSS, Bootstrap, and GSAP animations.
